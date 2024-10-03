@@ -1,1 +1,6 @@
-{}
+{
+  "showLineNumber": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder"
+}
