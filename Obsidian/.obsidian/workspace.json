@@ -4,32 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "4b5d4cdb3e3135d4",
+        "id": "62f60e505bc19766",
         "type": "tabs",
         "children": [
           {
-            "id": "55218220fe4ad3b8",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "973213c590669c73",
+            "id": "67f67ab0e06810c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Welcome.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60299acdd1704ffa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -38,15 +37,20 @@
         "currentTab": 1
       },
       {
-        "id": "62f60e505bc19766",
+        "id": "50b05dddf28e2e73",
         "type": "tabs",
         "children": [
           {
-            "id": "67f67ab0e06810c5",
+            "id": "fa1455d06f67549b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -115,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Kubernetes.md"
               }
             }
           },
@@ -183,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,13 +202,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "973213c590669c73",
+  "active": "60299acdd1704ffa",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Untitled.md",
-    "Welcome.md"
+    "Untitled 1.md",
+    "Kubernetes.md",
+    "Welcome.md",
+    "Untitled.canvas"
   ]
 }
