@@ -2,5 +2,8 @@
   "showLineNumber": true,
   "trashOption": "local",
   "alwaysUpdateLinks": true,
-  "newFileLocation": "folder"
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00. Inbox",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "99. 첨부파일"
 }
