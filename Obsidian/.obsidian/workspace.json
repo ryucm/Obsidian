@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K8s/Kubernetes_Worker_Node.md",
+                "file": "K8s/Kubernetes_Master_Node.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "K8s/Kubernetes_Worker_Node.md",
+                "file": "K8s/Kubernetes_Master_Node.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "K8s/Kubernetes_Worker_Node.md",
+                "file": "K8s/Kubernetes_Master_Node.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "K8s/Kubernetes_Worker_Node.md"
+                "file": "K8s/Kubernetes_Master_Node.md"
               }
             }
           },
@@ -223,9 +223,9 @@
   },
   "active": "bbed8c8ed90a92a2",
   "lastOpenFiles": [
+    "K8s/Kubernetes_Worker_Node.md",
     "K8s/Kubernetes.md",
     "K8s/Kubernetes_Master_Node.md",
-    "K8s/Kubernetes_Worker_Node.md",
     "Welcome.md",
     "K8s/Pasted image 20241003222059.png",
     "K8s",
