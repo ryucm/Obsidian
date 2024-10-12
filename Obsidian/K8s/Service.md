@@ -1,0 +1,1 @@
+![[k8s_clustIP_loadbalacer_nodeport.png]]
