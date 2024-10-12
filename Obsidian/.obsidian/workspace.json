@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K8s/Kubernetes_Master_Node.md",
+                "file": "K8s/Kubernetes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "K8s/Kubernetes_Master_Node.md",
+                "file": "K8s/Kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "K8s/Kubernetes_Master_Node.md",
+                "file": "K8s/Kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "K8s/Kubernetes_Master_Node.md"
+                "file": "K8s/Kubernetes.md"
               }
             }
           },
@@ -234,11 +233,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "656567d77804e8b9",
+  "active": "fa1455d06f67549b",
   "lastOpenFiles": [
-    "K8s/Kubernetes_Worker_Node.md",
-    "K8s/Kubernetes.md",
     "K8s/Kubernetes_Master_Node.md",
+    "K8s/Kubernetes.md",
+    "K8s/Kubernetes_Worker_Node.md",
     "Welcome.md",
     "K8s/Pasted image 20241003222059.png",
     "K8s",
